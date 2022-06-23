@@ -7,10 +7,14 @@ img {
 }
 #thirdDiv {
     height: 500px;
-    width: 550px;
+    width: 600px;
     background-color: blue;
     padding: 50px;
     border: 10px solid yellow;
+    margin: 100px;
+    padding-left: 20px;
+    padding-top: 50px;
+    margin-top: 50px;
 }
 #spanId {
     font-size: 18px;

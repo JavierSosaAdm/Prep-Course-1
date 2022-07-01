@@ -1,0 +1,24 @@
+<html>
+<head> Conceptos</head>
+<body>
+Variables: 
+Forma de guardar datos que serán utilizados mas adelante, se utiliza la sigra "var" seguida de un espacio y el nombre de la variable a guardar. 
+Ademas se puede asignar un valor usando el "=".
+Hay 4 formas de declarar variables:
+"var": forma de declarar variable en ES5 
+"let": similar a var, pero de distinco comportamiento, creando un nivel scope.
+"Const" cuando una variable que fué asignada, no puede ser reemplazada con otra a futuro 
+"consul.log": metodo que nos permite imprimir en la consola todo lo incluido entre ().
+STRIGNS: 
+son bloques de texto, se definen entre "" 
+FUNCIONES ARGUMENTO RETURN:
+Las funciones son objetos invocables, contienen conjunto de variables con las que realizan calculos o cambian algo. 
+comienzan con la palabra "function" lo cual indica que lo siguiente es una funsion y debe tratarse como tal. 
+con respecto a la DECLARACION RETURN, la función golpea con una declaración de retorno, es decir la funsición devuelve lo especificado, 
+y no se puede acceder a nada mas que a lo especificado. 
+DECLARACION IF: en esta declaración se crea un control de flujo y comparacion de una funcion, en la cual se marcan condiciones
+ y la funcion segun esas condiciones, retornan valores luego de ser comparados con operadores de comparacion tales como: "<=", "<", ">"
+ "> =", "===", "! =="
+ VALORES BOOLEANOS: alimenta el código binario, significa que tiene dos opciones: "true/false"; "activar/desactivar"; "0/1"
+ </body>
+ </html>

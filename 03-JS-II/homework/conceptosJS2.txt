@@ -1,0 +1,7 @@
+conceptos FOR: FOR es un operador logico que funciona como un bucle que evalua expresiones una y otra vez hasta que devuelve 
+lo que buscamos o se detiene despues de cierto tiempo. Es similar a "if" pero mas compleja. 
+CONCEPTO "OPERADORES LOGICOS": 
+"&&": Este operador significa "Y" evalua 2 expresiones y devuelve true solo si amdas son true, si uno o ambos es False devolverá False.
+"||": Este operador que significa "O" evalua 2 espresiones y devuelve true si una o ambas son true, devuelve false,
+solo si ambas son false.
+"!": Este operador significa "NO" operador que devuelve un valor booleano apuesto al que que le presenta.  

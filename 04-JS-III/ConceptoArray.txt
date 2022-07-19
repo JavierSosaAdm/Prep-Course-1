@@ -1,0 +1,7 @@
+Array:
+Es un método de matrices, utilizado como contenedor de almacenamiento información, para colecciónes de datos, los cuales pueden ser 
+buscados, modificados, correjidos, calculados, eliminados, agregados. 
+En la constucción de la matríz, se debe declarar variable y estabelsecerla en []. luego agregar al contenedor tandas cadenas, números
+y booleanos como se desee, separados todos y cada uno por comas.
+
+ej: const nombreEllas = ['Josefina', 'Jessica', 'Anita.A', 'Candela', 'Carolina', 'Evelin', 'Anita.M', 'Yanina', 'Nadia', 'Andrea'];

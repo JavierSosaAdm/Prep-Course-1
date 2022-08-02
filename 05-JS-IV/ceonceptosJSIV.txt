@@ -1,0 +1,14 @@
+OBJETOS: 
+Representación de tipos de datos, es utilizado para guardar colección de datos definidos y entidades ams complejas, como ser matrices, funciones,
+cadenas. Los objetos heredan las propiedades de lo que contienen, y esas propiedades pueden ser sobreescritas. 
+PROPIEDADES: 
+MÉTODOS:
+Los métodos son funciones guardadas en el objeto. con los cuales se puedén establecer las claves y los valores de las mismas. 
+BUCLE... IN FOR: 
+Es un bucle que se utiliza en el objeto, puesto que no utiliza índice numérico, si no que mas bien, en su sintaxis, se declara una variable,
+la palabra clave "in" y el nombre del objeto. este bucle recorre cada clave del objeto y finaliza, una vez iterado todas las claves. 
+NOTACIÓN DE PUNTO: 
+Método para acceder a los valores llamando al nombre del objeto, colocando un punto y el nombre del objeto (como la propiedad ".length")
+NOTACIÓN DE CORCHETES: 
+Método para acceder a los valores de un objeto mediante la notación de corchetes, como en una matriz, llamando cada clave envolviendola
+entre comillas. 

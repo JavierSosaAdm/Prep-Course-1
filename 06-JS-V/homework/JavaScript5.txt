@@ -1,0 +1,6 @@
+Prototype: es una propiedad de las clases, la cual nos permite luego establecer en métodos y dar acceso a los objetos de esa clases a esos métodos.
+Los métodos de 'prototype' Para dar acceso a los objetos se utiliza la palabra clave 'this' y siempre apuntará al objeto (lo que se encuentra a la 
+izquierda del punto) que lo llama
+CONSTRUCTOR DE CLASE: el contructor de clase es una herramienta que nos sirve para que a la hora de modificar una propiedad, 
+no deba hacerse en en ambos constructores, es decir, que los métodos y propiedades de de un constructor sean heredados por el otro 
+que los llama, y así un cambio en uno surta efecto en el otro, sin la necesidad de escribir doblemente la codificación.

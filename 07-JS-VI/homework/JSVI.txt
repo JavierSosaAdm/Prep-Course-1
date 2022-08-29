@@ -1,0 +1,2 @@
+CALLBACKS: es una Función que se pasa a otra función, en forma de argumento, el cual luego puede ser llamada en la fución externa 
+para completar algún tipo de rutina.

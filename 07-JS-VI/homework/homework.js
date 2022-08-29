@@ -4,6 +4,12 @@ function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
   //ej: Recibe "mario" ----> Devuelve "Mario"
   //Tu código:
+  String.prototype.capitalize = function () {
+    return this.charAt(0).toUpperCase() + this.slice(1)
+  }
+  var nombrMayus = nombre.map(funtion(nombre, indice), {
+    return: nombre.capitalize(),
+  })
 }
 
 function invocarCallback(cb) {

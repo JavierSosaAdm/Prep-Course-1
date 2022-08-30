@@ -1,0 +1,17 @@
+VARIABLES: 
+Formas de almacenar el valor de algo para usar mas tarde, esto se realiza declarando la variable utilizando "var", "let" o "const" + un
+espacio y el nombre de a asignar de al variableluego un el símbolo "=" para asignar el valor. 
+STRING:
+Es la expresión de un tipo de dato que consta de bloques de texto encerrados en ''.
+FUNCIONES: 
+Son Objetos invocables. al tener un conjunto de variables, se necesitan funsiones para ordenarlas, cambiarlas, calcularlas, hacer 
+algo con las mismas, estas funciones tienen Argumentos sobre los que se va a trabajar y return es una declaración del resultado que debe 
+escapar fuera de la función en forma de dato, luego de ejecutar el proseso.
+DECLARACION "IF":
+Es un flujo de control de trafico de datos, es decir, filtra los datos utilizando valores booleanos para comparar a travez de operadores 
+como ser "=", "===", "!==", "<", ">", "<=", ">=".
+VALORES BOOLEANOS:
+Es un tipo de dato que expresan valor en el código binario, es decir, te brinda una de dos opciones. como ser "verdadero" 
+en el caso de que el resultado cumpla con la condición o sea comprobable, y "falso" en el caso de que sea incomprobable que la la expresión 
+no cumpla con la funsion.  
+
